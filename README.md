@@ -19,7 +19,9 @@ Bu projelerdeki marka ve veriler örnektir; demo amaçlı hazırlandı.
 ## Kullandığım teknolojiler
 
 **Geliştirme:** PHP, Python, JavaScript, Node.js, Flutter, SQL / SQLite
+
 **Altyapı ve sistem:** Windows Server, Active Directory, Azure, ağ yönetimi
+
 **İş sistemleri:** Odoo, Opera, Micros, Logo, Tiger, Sedna (ERP / PMS entegrasyonları)
 
 ## Birlikte çalışmak istersen
