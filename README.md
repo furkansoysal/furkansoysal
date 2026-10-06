@@ -1,6 +1,6 @@
 # Merhaba, ben Furkan
 
-Otelcilik sektöründe IT yöneticisiyim, bunun yanında yazılım geliştiriyorum. Gün içinde sunucuları, ağları ve ERP sistemlerini ayakta tutuyorum; kalan zamanda küçük işletmelerin ihtiyaç duyduğu web ve mobil çözümleri yazıyorum. Dublin International University'de Yazılım Mühendisliği okuyorum.
+Otelcilik sektöründe IT yöneticisiyim, bunun yanında yazılım geliştiriyorum. Gün içinde sunucuları, ağları ve ERP sistemlerini ayakta tutuyorum; kalan zamanda küçük işletmelerin ihtiyaç duyduğu web ve mobil çözümleri yazıyorum. Dublin International University Yazılım Mühendisliği mezunuyum.
 
 İşletmelerin gerçek hayatta yaşadığı sorunlara (rezervasyon, ödeme, sipariş, kanal entegrasyonu) sade ve çalışan çözümler üretmeyi seviyorum.
 
